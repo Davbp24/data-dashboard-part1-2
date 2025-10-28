@@ -1,0 +1,18 @@
+.header {
+  background: #667eea;
+  padding: 25px 30px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  color: white;
+  font-size: 2em;
+}
+
+.header .subtitle {
+  margin: 8px 0 0;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1em;
+}
